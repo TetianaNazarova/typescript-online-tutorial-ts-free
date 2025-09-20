@@ -1096,5 +1096,3 @@ class ChatServer {
 
 TYPESCRIPT TS Online Tutorial eBook, pdf, TypeScript course free
 https://weblearn.my/ts-typescript-learning-typescript-ts-for-react-js-angular-vue-node-js/
-        if (room) {
-            room
